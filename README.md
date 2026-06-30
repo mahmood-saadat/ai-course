@@ -1,6 +1,6 @@
 # AI Course Prompt Repository
 
-Welcome to the official prompt repository for the course. This `README.md` contains the core templates and examples used throughout the lectures to communicate effectively with AI tools like ChatGPT, Gemini, and GitHub Copilot. 
+Welcome to the official prompt repository for the [course](https://www.udemy.com/course/ai-flash-course). This `README.md` contains the core templates and examples used throughout the lectures to communicate effectively with AI tools like ChatGPT, Gemini, and GitHub Copilot. 
 
 Use these examples as a foundation for your own projects, automating tasks, and writing code.
 
